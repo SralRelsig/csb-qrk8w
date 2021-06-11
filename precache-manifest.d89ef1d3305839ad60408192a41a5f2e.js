@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "aa54fd293fd665e94444",
-    "url": "https://g74s.github.io/csb-qrk8w/static/css/main.4a8805d7.chunk.css"
+    "revision": "178ff2fb406e49c10479",
+    "url": "https://g74s.github.io/csb-qrk8w/static/css/main.9a5d2fc2.chunk.css"
   },
   {
-    "revision": "aa54fd293fd665e94444",
-    "url": "https://g74s.github.io/csb-qrk8w/static/js/main.aa54fd29.chunk.js"
+    "revision": "178ff2fb406e49c10479",
+    "url": "https://g74s.github.io/csb-qrk8w/static/js/main.178ff2fb.chunk.js"
   },
   {
     "revision": "cfab0df6090b71abeb79",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "https://g74s.github.io/csb-qrk8w/static/js/runtime~main.ae95fa5b.js"
   },
   {
-    "revision": "3c40912c6beae067f080e855ef1d860b",
+    "revision": "8a843aebc8b96b60b35eea802105627e",
     "url": "https://g74s.github.io/csb-qrk8w/index.html"
   }
 ];
